@@ -1,7 +1,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/useragents/Zefoy-TikTok-Automator">
+  <a href="https://github.com/useragents/born_2003-TikTok-Automator">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
   </a>
   
@@ -13,7 +13,7 @@
     <br />
     <a href="https://discord.gg/KRjZ58MfDD">Join New Discord Server</a>
     ·
-    <a href="https://github.com/useragents/Zefoy-TikTok-Automator/issues">Report Bugs</a>
+    <a href="https://github.com/useragents/born_2003-TikTok-Automator/issues">Report Bugs</a>
     
   </p>
 </div>
